@@ -2,13 +2,15 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#74696d</color>
-    <color name="primary">#BBDEFB</color>
-    <color name="primary_dark">#1976D2</color>
-    <color name="primary_light">#2196F3</color>
-    <color name="accent">#03A9F4</color>
-    <color name="primary_text">#FFFFFF</color>
-    <color name="secondary_text">#727272</color>
-    <color name="icons">#FFFFFF</color>
-    <color name="divider">#B6B6B6</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="appOrange">#ff9800</color>
+    <color name="appOrangeDark">#ef6c00</color>
+
+    <color name="red">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bar">#ffff8800</color>
+
 </resources>

@@ -1,6 +1,28 @@
 <resources>
-    <string name="app_name">24/7</string>
-    <string name="login_text">Login Screen</string>
-    <string name="signup_text">Signup Screen</string>
-    <string name="title_activity_favorite">Favorites</string>
+    <string name="app_name">DineOut</string>
+
+    <string name="Orderup">RMS3</string>
+    <string-array name="employee_types">
+        <item>Waiter</item>
+        <item>Chef</item>
+        <item>Head Chef</item>
+        <item>Hall Manager</item>
+    </string-array>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+
+    </string-array>
+    <string name="promptEmployee">Select Employee Type</string>
+
+
+    <!--KITCHEN-->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_attendance">AttendanceActivity</string>
 </resources>
